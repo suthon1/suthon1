@@ -1,2 +1,5 @@
 [user]
 	email = sython9999@gmail.com
+	name = suior
+[core]
+	editor = emacs

@@ -692,3 +692,50 @@ find /Desktop
 exit
 apt-get install git
 git
+apt-get install git
+sudo install git
+sudo-apt install git
+yum install git
+git --version
+git
+git start
+git stage
+git config
+git config --get
+git config --global
+git config --global user.name
+port search git
+sudo port selfupdate
+git config --list
+git config user.name
+find git
+git 
+git --help
+git status
+git init
+git --version
+git start
+git config --list
+git config --list --global
+sudo apt update
+git --version
+git init --initial-branch=main
+git config --list --global
+git start
+git --help
+git branch
+git status
+git add 
+git add -help
+git add --all
+git status
+git commit
+git config --global user.email sython9999@gmail.com
+git config --glocal user.name "suior"
+git config --list
+git status
+git add --all
+git status
+git commit
+git config --global user.name "suior"
+git commit
