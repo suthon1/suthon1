@@ -739,3 +739,110 @@ git status
 git commit
 git config --global user.name "suior"
 git commit
+git status
+git commit
+git status
+git config --list --show-origin
+git config user.name
+git config --global core.editor emacs
+git config --global
+git config --list --config
+git config --global --list
+git commit
+-m
+git commit -m
+git commit -F
+git commit -m
+git dtatus
+git status
+git commit
+git commit -m "djjd"
+git status
+git push origin master
+git add --all
+git status
+git commit -m "ddjd"
+git status
+git init
+stop
+git stop
+git init
+git clear
+git clean
+git log
+git status
+pwd
+cd ..
+pwd
+mkdir my_first_web_app
+mkdir my_first_web_app:
+mkdir "my_first_web_app"
+sudo mysql -u root -p
+sudo service mysql start
+sudo mysql
+exit
+sudo mysql start
+service mysql start
+sudo mysql -u root -p
+sudo service mysql start
+sudo mysql
+exit
+pdw
+pwd
+ls -la
+mkdir demo_PAT
+cd demo_PAT
+ls
+pwd
+git init
+ls
+ls -l
+git clone
+git clone https://github.com/suthon1/academy-TOP.git
+ls -la
+cd academy-TOP
+ls -la
+git add *
+git commit -m "6th commit:"
+git push
+sudo --settings
+sudo apt-get install xclip
+
+pwd
+whoami
+(2.35-0ubuntu3.1) (2.35-0ubuntu3.1) (2.35-0ubuntu3.1) (2.35-0ubuntu3.1) (2.35-0ubuntu3.1)
+git
+git init
+git 
+exit
+sudo --version
+git init
+git add readme.me
+git add .
+git commit -mexit
+git status
+git add .
+git commit -m "first commit"
+git status
+git push origin master
+git remote add origin https://github.com/suthon1/suthon1.git
+git status
+git push -m origin master
+git push origin master
+git remote add origin https://github.com/suthon1/suthon1.git
+git push -u origin master
+git status
+git add .
+cd
+cd demo_PAT
+git status
+git add .
+git status
+git commit -m "academy-TOP"
+git push origin master
+git push origin main
+git push -u origin main
+git push -u main
+git status
+cd ..
+exit
