@@ -846,3 +846,23 @@ git push -u main
 git status
 cd ..
 exit
+sudo start
+git init
+git add README.md
+git init
+git add .
+clear
+git 
+git branch
+touch test.java
+cd
+ls
+git status
+git add .
+git status
+git commit -m "exampl.com"
+git status
+git add .
+git status
+git log
+vi djjd
